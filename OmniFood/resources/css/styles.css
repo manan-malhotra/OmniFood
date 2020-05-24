@@ -326,4 +326,10 @@ footer {
 	.meals {
 		display: none;
 	}
+	.footericon {
+		font-size: 140%;
+		margin-left: 10px;
+		margin-top: 40px;
+		color: rgb(134, 132, 132);
+	}
 }
