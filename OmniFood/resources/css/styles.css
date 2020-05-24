@@ -335,4 +335,19 @@ footer {
 	h2 {
 		font-size: 15px;
 	}
+	.featuretext {
+		font-size: 20px;
+		margin-left: 50px;
+		margin-right: 50px;
+		font-weight: 400;
+	}
+	.review {
+		font-size: 15px;
+	}
+	.customers p {
+		font-weight: 300;
+		font-style: italic;
+		line-height: 125%;
+		font-size: 15px;
+	}
 }
