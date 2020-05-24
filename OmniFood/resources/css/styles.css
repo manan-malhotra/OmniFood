@@ -308,8 +308,8 @@ footer {
 		font-size: 15px;
 	}
 	.herocontainer {
-		margin-top: 22%;
-		/* padding-top: 0%; */
+		margin-top: 32%;
+		padding-top: 0%;
 	}
 	.feature h2 {
 		font-size: 25px;
@@ -325,9 +325,5 @@ footer {
 	}
 	.meals {
 		display: none;
-	}
-	.h1onclick {
-		/* margin-top: 0%; */
-		transform: translate(0px, -110px);
 	}
 }
