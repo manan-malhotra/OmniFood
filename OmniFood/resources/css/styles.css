@@ -333,3 +333,8 @@ footer {
 		color: rgb(134, 132, 132);
 	}
 }
+@media (max-width: 450px) {
+	h2 {
+		font-size: 15px;
+	}
+}
