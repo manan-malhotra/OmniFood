@@ -347,7 +347,7 @@ footer {
 	.customers p {
 		font-weight: 300;
 		font-style: italic;
-		line-height: 125%;
-		font-size: 15px;
+		line-height: 105%;
+		font-size: 12px;
 	}
 }
