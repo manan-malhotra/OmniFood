@@ -194,10 +194,7 @@ h3 {
 	text-transform: uppercase;
 	font-size: 20px;
 }
-.h1onclick {
-	/* margin-top: 0%; */
-	transform: translate(0px, -110px);
-}
+
 /*! Customers */
 sectioncustomers {
 	height: 100vh;
@@ -328,5 +325,9 @@ footer {
 	}
 	.meals {
 		display: none;
+	}
+	.h1onclick {
+		/* margin-top: 0%; */
+		transform: translate(0px, -110px);
 	}
 }
